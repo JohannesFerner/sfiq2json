@@ -1,0 +1,26 @@
+{
+  "name": "sfiq2json",
+  "version": "1.0.0",
+  "description": "Convert the dataset of the SFIQ Cloud to a local JSON file ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohannesFerner/sfiq2json.git"
+  },
+  "keywords": [
+    "salesforceiq",
+    "sfiq",
+    "relateIQ",
+    "CRM",
+    "backup"
+  ],
+  "author": "Johannes Ferner",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JohannesFerner/sfiq2json/issues"
+  },
+  "homepage": "https://github.com/JohannesFerner/sfiq2json#readme"
+}
